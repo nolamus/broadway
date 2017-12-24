@@ -5,6 +5,7 @@ body {
 
 #home {
   color: white;
+  background-image: url("./images/the-flatiron-building.png");
 }
 
 h1 {
@@ -13,7 +14,7 @@ h1 {
 
 }
 
-nav {
+nav .home {
   font-size: 18px;
 }
 
@@ -30,18 +31,20 @@ h3 {
 p #process {
   font-size: 14px;
 }
+a {
+  color: white;
+}
 
 .new_york {
   font-size: 23px;
   font-weight: bold;
   color: white;
+  background-image: url("./images/the-flatiron-building.png");
 }
 
 #footer {
   color: white;
   background-color: dimgray;
-}
-
-.copyright {
+  text-align: left;
   font-size: 11px;
 }
