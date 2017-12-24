@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+#home {
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+
+}
+
+nav {
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p #process {
+  font-size: 14px;
+}
+
+.new_york {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+#footer {
+  color: white;
+  background-color: dimgray;
+}
+
+.copyright {
+  font-size: 11px;
+}
